@@ -1,0 +1,2 @@
+# This is the git command line used to fetch all my changes from github
+git pull https://github.com/Elisheba12/alx-pre_course.git
